@@ -35,12 +35,7 @@ Each image is labeled as:
 
 - **Transfer Learning** with pre-trained models:
   - `MobileNetV2`
-  - `EfficientNetB0` (optional)
 - **Few-shot learning** approach: trained on fewer than 50 images per class.
 - **Image Preprocessing & Augmentation**:
   - Resize, normalize, rotate, flip, zoom, contrast adjustment.
-
----
-
-## 🏗️ Project Structure
 
