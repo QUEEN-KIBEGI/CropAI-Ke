@@ -28,6 +28,7 @@ Each image is labeled as:
 
 > 🔗 See `plant_disease_dataset.csv` for file paths and labels.  
 > 🔗 See `image_log_with_urls.csv` for source URLs.
+
 > [View Dataset on Google Drive](https://drive.google.com/drive/folders/1dMFOrzNERX5a_42l_Q7ztqX_0kEfW9wv?usp=sharing)
 
 ---
